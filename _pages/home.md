@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "NC Fish Unit"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "The Fish Unit at North Carolina Museum of Natural Sciences"
 sitemap: false
 permalink: /
 ---
