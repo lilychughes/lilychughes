@@ -8,13 +8,13 @@ permalink: /vacancies
 
 # Open positions
 
-## Graduate Student and Postdoc Positions
-**Note: We currently don't have funding for graduate student or postdoc positions. If you are interested in doing a postdoc at the museum, [contact Lily Hughes](mailto:lily.hughes@naturalsciences.org) to discuss possible external funding sources and grant opportunities.
+### Graduate Student and Postdoc Positions
+**Note: We currently don't have funding for graduate student or postdoc positions. If you are interested in doing a postdoc at the museum, [contact Lily Hughes](mailto:lily.hughes@naturalsciences.org) to discuss possible external funding sources and grant opportunities.**
 
-## Opportunities for Undergraduate Research
+### Opportunities for Undergraduate Research
 If you are an undergraduate in the Research Triangle area interested in the systematics, biodiversity and evolution of fishes [contact Lily Hughes](mailto:lily.hughes@naturalsciences.org) to discuss potential research opportunities.
 
-## Volunteer in the Fish Collection
+### Volunteer in the Fish Collection
 We love our volunteers who help maintain our valuable research collection! 
 
 <figure>
