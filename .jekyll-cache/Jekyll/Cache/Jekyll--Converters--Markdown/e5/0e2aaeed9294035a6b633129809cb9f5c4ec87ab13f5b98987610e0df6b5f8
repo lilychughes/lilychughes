@@ -1,4 +1,4 @@
-I"«<p>Welcome to the Ichthyology Unit at the <a href="http://www.naturalsciences.org">North Carolina Museum of Natural Sciences</a>. This website showcases our recent research! Click here if you are looking to search the <a href="https://collections.naturalsciences.org/search/ichthyology">fish collection database</a>.</p>
+I"N<p>Welcome to the Ichthyology Unit at the <a href="http://www.naturalsciences.org">North Carolina Museum of Natural Sciences</a>. This website showcases our recent research! Click here if you are looking to search the <a href="https://collections.naturalsciences.org/search/ichthyology">fish collection database</a>.</p>
 
 <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
@@ -50,9 +50,8 @@
 <p>The ichthyology collection has been supported by grants from the <a href="https://nsf.gov">National Science Foundation</a> and the <a href="https://www.imls.gov">Institute of Museum and Library Services</a>.</p>
 
 <figure class="fourth">
-  <p><img src="http://localhost:4000/images/logopic/Logo_Leiden.jpg" style="width: 210px" />
-  <img src="http://localhost:4000/images/logopic/Logo_Nanofront.jpg" style="width: 110px" />
-  <img src="http://localhost:4000/images/logopic/Logo_NWO.jpg" style="width: 120px" />
-  <img src="http://localhost:4000/images/logopic/Logo_ERC.jpg" style="width: 110px" /></p>
+  <p><img src="http://localhost:4000/images/logopic/Logo_NCMNS.jpg" style="width: 210px" />
+  <img src="http://localhost:4000/images/logopic/Logo_NSF.jpg" style="width: 110px" />
+  <img src="http://localhost:4000/images/logopic/Logo_IMLS.jpg" style="width: 120px" /></p>
 </figure>
 :ET
