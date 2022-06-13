@@ -58,5 +58,5 @@ Welcome to the Ichthyology Lab at the [North Carolina Museum of Natural Sciences
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NCMNS.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ncsu.jpg" style="width: 190px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ncsu.jpg" style="width: 170px">
 </figure>
