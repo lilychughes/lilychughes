@@ -1,14 +1,14 @@
 ---
-title: "NC Fish Unit"
+title: "NC Ichthyology Lab"
 layout: homelay
-excerpt: "The Ichthyology Unit at North Carolina Museum of Natural Sciences"
+excerpt: "Ichthyology Lab at North Carolina Museum of Natural Sciences"
 sitemap: false
 permalink: /
 ---
 
-Welcome to the Ichthyology Unit at the [North Carolina Museum of Natural Sciences](http://www.naturalsciences.org). This website showcases our recent research! [The online searchable database for the fish collection can be found here](https://collections.naturalsciences.org/search/ichthyology). We are located at the museum's [Research Laboratory](https://naturalsciences.org/research-collections/laboratories/research-lab), in west Raleigh, North Carolina. 
+Welcome to the Ichthyology Lab at the [North Carolina Museum of Natural Sciences](http://www.naturalsciences.org). This website showcases our recent research! [The online searchable database for the fish collection can be found here](https://collections.naturalsciences.org/search/ichthyology). We are located at the museum's [Research Laboratory](https://naturalsciences.org/research-collections/laboratories/research-lab), in west Raleigh, North Carolina. 
 
- **If you are interested in joining the team please check out vacancies for** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **If you are interested in joining the team please check out vacancies for** [more info]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 

@@ -1,7 +1,7 @@
 ---
-title: "Ichthyology Unit - Research"
+title: "Ichthyology Lab - Research"
 layout: textlay
-excerpt: "Ichthyology Unit -- Research"
+excerpt: "Ichthyology Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
