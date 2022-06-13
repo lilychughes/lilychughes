@@ -55,10 +55,8 @@ Welcome to the Ichthyology Lab at the [North Carolina Museum of Natural Sciences
   </a>
 </div>
 
-The ichthyology collection has been supported by grants from the [National Science Foundation](https://nsf.gov) and the [Institute of Museum and Library Services](https://www.imls.gov). 
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NCMNS.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_IMLS.jpeg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ncsu.jpg" style="width: 210px">
 </figure>
