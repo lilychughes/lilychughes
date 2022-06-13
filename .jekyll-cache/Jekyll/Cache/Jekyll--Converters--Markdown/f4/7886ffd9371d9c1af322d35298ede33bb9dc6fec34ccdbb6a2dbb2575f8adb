@@ -1,4 +1,5 @@
-I"ÿ<h1 id="group-members">Group Members</h1>
+I"
+<h1 id="group-members">Group Members</h1>
 
 <p><strong>If you are looking to join the team</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
 
@@ -11,7 +12,7 @@
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/lily.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Lily C. Hughes</h4>
-    <p><i>Research Curator of Ichthyology <!--<br>email: <lily.hughes@naturalsciences.org></i> --></i></p>
+    <p><i>Curator of Ichthyology &amp; Research Assistant Professor <!--<br>email: <lily.hughes@naturalsciences.org, lhughes7@ncsu.edu></i> --></i></p>
     <ul style="overflow: hidden">
 
   
@@ -97,42 +98,6 @@
 </div>
 
 <h2 id="master-and-bachelor-students">Master and Bachelor Students</h2>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <h4>Thijs van den Munckhof</h4>
-    <p><i>Master student <!-- <br>email: <m.ortego.larrazabal@umail.leidenuniv.nl></i> --></i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <h4>Jo√£o van der Ven</h4>
-    <p><i>BSc student <!-- <br>email: <m.ortego.larrazabal@umail.leidenuniv.nl></i> --></i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-</div>
 
 <h2 id="alumni">Alumni</h2>
 

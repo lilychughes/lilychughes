@@ -1,4 +1,6 @@
-I"W<p>Welcome to the Ichthyology Unit at the <a href="http://www.naturalsciences.org">North Carolina Museum of Natural Sciences</a>. This website showcases our recent research!</p>
+I"K<p>Welcome to the Ichthyology Unit at the <a href="http://www.naturalsciences.org">North Carolina Museum of Natural Sciences</a>. This website showcases our recent research! <a href="https://collections.naturalsciences.org/search/ichthyology">The online searchable database for the fish collection can be found here</a>. We are located at the museum’s <a href="https://naturalsciences.org/research-collections/laboratories/research-lab">Research Laboratory</a>, in west Raleigh, North Carolina.</p>
+
+<p><strong>If you are interested in joining the team please check out vacancies for</strong> <a href="http://localhost:4000/vacancies">(more info)</a> <strong>!</strong></p>
 
 <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
@@ -42,12 +44,6 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-<p>Click here if you are looking to search the <a href="https://collections.naturalsciences.org/search/ichthyology">fish collection database</a>.</p>
-
-<p>We are located at the museum’s <a href="https://naturalsciences.org/research-collections/laboratories/research-lab">Research Laboratory</a>, in west Raleigh, North Carolina.</p>
-
-<p><strong>If you are interested in joining the team please check out vacancies for</strong> <a href="http://localhost:4000/vacancies">(more info)</a> <strong>!</strong></p>
 
 <p>The ichthyology collection has been supported by grants from the <a href="https://nsf.gov">National Science Foundation</a> and the <a href="https://www.imls.gov">Institute of Museum and Library Services</a>.</p>
 
