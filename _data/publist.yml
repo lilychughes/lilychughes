@@ -1,7 +1,7 @@
 - title: "Phylogenomics and body shape morphometrics reveal recent origin and diversification in the goatfishes (Syngnatharia: Mullidae)"
   image: goatfish.png
   description: Lead by PhD Candidate [Chloe M. Nash](https://chloemnash.wordpress.com) at University of Chicago, we investigated the evolutionary history of goatfishes and found that they emerged surprisingly recently! Most goatfish species evolved within the past 5 million years, but have relatively conserved morphology.
-  authors: CM Nash, LL Lungstrom, **LC Hughes**, MW Westneat
+  authors: CM Nash, LL Lungstrom, LC Hughes, MW Westneat
   link:
     url: https://www.biorxiv.org/content/10.1101/2022.04.12.488079v1.abstract
     display: bioRxiv (2022)
@@ -11,7 +11,7 @@
 - title: "Phylogenomics of Bony-Tongue Fishes (Osteoglossomorpha) Shed Light on the Craniofacial Evolution and Biogeography of the Weakly Electric Clade (Mormyridae)"
   image: 
   description: 
-  authors: RD Peterson, JP Sullivan, CD Hopkins, A Santaquiteria, CB Dillman, S Pirro, R Betancur-R, D Arcila, **LC Hughes**, G Ortí
+  authors: RD Peterson, JP Sullivan, CD Hopkins, A Santaquiteria, CB Dillman, S Pirro, R Betancur-R, D Arcila, LC Hughes, G Ortí
   link:
     url: https://academic.oup.com/sysbio/advance-article-abstract/doi/10.1093/sysbio/syac001/6510956
     display:  Systematic Biology (2022)
@@ -21,7 +21,7 @@
 - title: "Exon-capture data and locus screening provide new insights into the phylogeny of flatfishes (Pleuronectoidei)"
   image: 
   description: 
-  authors: CJ Atta, H Yuan, C Li, D Arcila, R Betancur-R, **LC Hughes**, G Ortí, L Tornabene 
+  authors: CJ Atta, H Yuan, C Li, D Arcila, R Betancur-R, LC Hughes, G Ortí, L Tornabene 
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1055790321002487
     display:  Molecular Phylogenetics and Evolution (2022)
@@ -31,7 +31,7 @@
 - title: "Testing the utility of alternative metrics of branch support to address the ancient evolutionary radiation of tunas, stromateoids, and allies (Teleostei:Pelagiaria)"
   image: 
   description: \* These authors contributed equally to this article.
-  authors: D Arcila\*, **LC Hughes**\*, F Meléndez-Vazquez, CC Baldwin, WT White, KE Carpenter, JT Williams, MD Santos, JJ Pogonoski, M Miya, G Ortí, R Betancur-R
+  authors: D Arcila\*, LC Hughes\*, F Meléndez-Vazquez, CC Baldwin, WT White, KE Carpenter, JT Williams, MD Santos, JJ Pogonoski, M Miya, G Ortí, R Betancur-R
   link:
     url: https://academic.oup.com/sysbio/article-abstract/70/6/1123/6204118
     display:  Systematic Biology (2021)
@@ -40,7 +40,7 @@
 - title: "Phylogenomics of Piranhas and Pacus (Serrasalmidae) Uncovers How Dietary Convergence and Parallelism Obfuscate Traditional Morphological Taxonomy"
   image: 
   description: 
-  authors: MA Kolmann, **LC Hughes**, LP Hernandez, D Arcila, R Betancur-R, MH Sabaj, H López-Fernández, G Ortí
+  authors: MA Kolmann, LC Hughes, LP Hernandez, D Arcila, R Betancur-R, MH Sabaj, H López-Fernández, G Ortí
   link:
     url: https://academic.oup.com/sysbio/article/70/3/576/5891674
     display: Systematic Biology (2021)
@@ -49,7 +49,7 @@
 - title: "Exon probe sets and bioinformatics pipelines for all levels of fish phylogenomics"
   image: 
   description: 
-  authors: **LC Hughes**, G Ortí, H Saad, C Li, WT White, CC Baldwin, KA Crandall, D Arcila, R Betancur-R
+  authors: LC Hughes, G Ortí, H Saad, C Li, WT White, CC Baldwin, KA Crandall, D Arcila, R Betancur-R
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13287
     display:  Molecular Ecology Resources (2021)
@@ -58,7 +58,7 @@
 - title: "Evolutionary determinism and convergence associated with water-column transitions in marine fishes"
   image: 
   description: 
-  authors: M Rincon-Sandoval, E Duarte-Ribeiro, AM Davis, A Santaquiteria, **LC Hughes**, CC Baldwin, L Soto-Torres, A Acero, HJ Walker, KE Carpenter, M Sheaves, G Ortí, D Arcila, R Betancur-R
+  authors: M Rincon-Sandoval, E Duarte-Ribeiro, AM Davis, A Santaquiteria, LC Hughes, CC Baldwin, L Soto-Torres, A Acero, HJ Walker, KE Carpenter, M Sheaves, G Ortí, D Arcila, R Betancur-R
   link:
     url: https://www.pnas.org/doi/abs/10.1073/pnas.2006511117
     display:  Proceedings of the National Academy of Sciences (2020)
@@ -67,7 +67,7 @@
 - title: "Biogeography, habitat transitions and hybridization in a radiation of South American silverside fishes revealed by mitochondrial and genomic RAD data"
   image: 
   description: 
-  authors: **LC Hughes**, YP Cardoso, JA Sommer, R Cifuentes, M Cuello, GM Somoza, M González-Castro, LR Malabarba, V Cussac, EM Habit, R Betancur-R, G Ortí
+  authors: LC Hughes, YP Cardoso, JA Sommer, R Cifuentes, M Cuello, GM Somoza, M González-Castro, LR Malabarba, V Cussac, EM Habit, R Betancur-R, G Ortí
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15350
     display:  Molecular Ecology (2020)
@@ -76,7 +76,7 @@
 - title: "Phylogenomic incongruence, hypothesis testing, and taxonomic sampling: The monophyly of characiform fishes"
   image: 
   description: 
-  authors: R Betancur-R, D Arcila, RP Vari, **LC Hughes**, C Oliveira, MH Sabaj ,G Ortí
+  authors: R Betancur-R, D Arcila, RP Vari, LC Hughes, C Oliveira, MH Sabaj ,G Ortí
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13649
     display:  Evolution (2019)
@@ -85,7 +85,7 @@
 - title: "Comprehensive phylogeny of ray-finned fishes (Actinopterygii) based on transcriptomic and genomic data"
   image: 
   description: 
-  authors: **LC Hughes**, G Ortí, Y Huang, Y Sun, CC Baldwin, AW Thompson, D Arcila, R Betancur-R, C Li, L Becker, N Bellora, X Zhao, X Li, M Wang, C Fang, B Xie, Z Zhou, H Huang, S Chen, B Venkatesh, Q Shi
+  authors: LC Hughes, G Ortí, Y Huang, Y Sun, CC Baldwin, AW Thompson, D Arcila, R Betancur-R, C Li, L Becker, N Bellora, X Zhao, X Li, M Wang, C Fang, B Xie, Z Zhou, H Huang, S Chen, B Venkatesh, Q Shi
   link:
     url: https://www.pnas.org/doi/abs/10.1073/pnas.1719358115
     display:  Proceedings of the National Academy of Sciences (2018)
@@ -94,7 +94,7 @@
 - title: "Transcriptomic differentiation underlying marine-to-freshwater transitions in the South American silversides *Odontesthes argentinensis* and *O. bonariensis* (Atheriniformes)"
   image: 
   description: 
-  authors: **LC Hughes**, GM Somoza, BN Nguyen, JP Bernot, M González-Castro, JMD de Astarloa, G Ortí
+  authors: LC Hughes, GM Somoza, BN Nguyen, JP Bernot, M González-Castro, JMD de Astarloa, G Ortí
   link:
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.3133
     display:  Ecology and Evolution (2017)
@@ -103,7 +103,7 @@
 - title: "Kisspeptin system in pejerrey fish (*Odontesthes bonariensis*). Characterization and gene expression pattern during early developmental stages"
   image: 
   description: 
-  authors: MOT Bohórquez, AS Mechaly, **LC Hughes**, D Campanella, G Ortí, LF Canosa, GM Somoza
+  authors: MOT Bohórquez, AS Mechaly, LC Hughes, D Campanella, G Ortí, LF Canosa, GM Somoza
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1095643316302616
     display:  Comparative Biochemistry and Physiology Part A -  Molecular & Integrative Physiology (2017)
@@ -112,7 +112,7 @@
 - title: "Multi-locus fossil-calibrated phylogeny of Atheriniformes (Teleostei, Ovalentaria)"
   image: 
   description: 
-  authors: D Campanella, **LC Hughes**, PJ Unmack, DD Bloom, KR Piller, G Ortí
+  authors: D Campanella, LC Hughes, PJ Unmack, DD Bloom, KR Piller, G Ortí
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S1055790315000561
     display:  Molecular Phylogenetics and Evolution (2015)
@@ -121,7 +121,7 @@
 - title: "Can ecotypic differences in male courtship behaviour be explained by visual cues provided by female threespine stickleback?)"
   image: 
   description: 
-  authors: **LC Hughes**, SA Foster, JA Baker
+  authors: LC Hughes, SA Foster, JA Baker
   link:
     url: http://www.evolutionary-ecology.com/abstracts/v15/2805.html
     display:  Evolutionary Ecology Research (2013)
