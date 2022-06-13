@@ -4,7 +4,7 @@
   authors: CM Nash, LL Lungstrom, **LC Hughes**, MW Westneat
   link:
     url: https://www.biorxiv.org/content/10.1101/2022.04.12.488079v1.abstract
-    display: *bioRxiv* (2022)
+    display: bioRxiv (2022)
   highlight: 1
   news2: 
   
@@ -14,7 +14,7 @@
   authors: RD Peterson, JP Sullivan, CD Hopkins, A Santaquiteria, CB Dillman, S Pirro, R Betancur-R, D Arcila, **LC Hughes**, G Ortí
   link:
     url: https://academic.oup.com/sysbio/advance-article-abstract/doi/10.1093/sysbio/syac001/6510956
-    display:  *Systematic Biology* (2022)
+    display:  Systematic Biology (2022)
   highlight: 0
   news2:
 
@@ -24,7 +24,7 @@
   authors: CJ Atta, H Yuan, C Li, D Arcila, R Betancur-R, **LC Hughes**, G Ortí, L Tornabene 
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1055790321002487
-    display:  *Molecular Phylogenetics and Evolution* (2022)
+    display:  Molecular Phylogenetics and Evolution (2022)
   highlight: 0
   news2:
 
@@ -34,7 +34,7 @@
   authors: D Arcila\*, **LC Hughes**\*, F Meléndez-Vazquez, CC Baldwin, WT White, KE Carpenter, JT Williams, MD Santos, JJ Pogonoski, M Miya, G Ortí, R Betancur-R
   link:
     url: https://academic.oup.com/sysbio/article-abstract/70/6/1123/6204118
-    display:  *Systematic Biology* (2021)
+    display:  Systematic Biology (2021)
   highlight: 0
 
 - title: "Phylogenomics of Piranhas and Pacus (Serrasalmidae) Uncovers How Dietary Convergence and Parallelism Obfuscate Traditional Morphological Taxonomy"
@@ -43,7 +43,7 @@
   authors: MA Kolmann, **LC Hughes**, LP Hernandez, D Arcila, R Betancur-R, MH Sabaj, H López-Fernández, G Ortí
   link:
     url: https://academic.oup.com/sysbio/article/70/3/576/5891674
-    display:  *Systematic Biology* (2021)
+    display: Systematic Biology (2021)
   highlight: 0
 
 - title: "Exon probe sets and bioinformatics pipelines for all levels of fish phylogenomics"
@@ -52,7 +52,7 @@
   authors: **LC Hughes**, G Ortí, H Saad, C Li, WT White, CC Baldwin, KA Crandall, D Arcila, R Betancur-R
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13287
-    display:  *Molecular Ecology Resources* (2021)
+    display:  Molecular Ecology Resources (2021)
   highlight: 0
 
 - title: "Evolutionary determinism and convergence associated with water-column transitions in marine fishes"
@@ -61,7 +61,7 @@
   authors: M Rincon-Sandoval, E Duarte-Ribeiro, AM Davis, A Santaquiteria, **LC Hughes**, CC Baldwin, L Soto-Torres, A Acero, HJ Walker, KE Carpenter, M Sheaves, G Ortí, D Arcila, R Betancur-R
   link:
     url: https://www.pnas.org/doi/abs/10.1073/pnas.2006511117
-    display:  *Proceedings of the National Academy of Sciences* (2020)
+    display:  Proceedings of the National Academy of Sciences (2020)
   highlight: 0
 
 - title: "Biogeography, habitat transitions and hybridization in a radiation of South American silverside fishes revealed by mitochondrial and genomic RAD data"
@@ -70,7 +70,7 @@
   authors: **LC Hughes**, YP Cardoso, JA Sommer, R Cifuentes, M Cuello, GM Somoza, M González-Castro, LR Malabarba, V Cussac, EM Habit, R Betancur-R, G Ortí
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15350
-    display:  *Molecular Ecology* (2020)
+    display:  Molecular Ecology (2020)
   highlight: 0
 
 - title: "Phylogenomic incongruence, hypothesis testing, and taxonomic sampling: The monophyly of characiform fishes"
@@ -79,7 +79,7 @@
   authors: R Betancur-R, D Arcila, RP Vari, **LC Hughes**, C Oliveira, MH Sabaj ,G Ortí
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13649
-    display:  *Evolution* (2019)
+    display:  Evolution (2019)
   highlight: 0
 
 - title: "Comprehensive phylogeny of ray-finned fishes (Actinopterygii) based on transcriptomic and genomic data"
@@ -88,7 +88,7 @@
   authors: **LC Hughes**, G Ortí, Y Huang, Y Sun, CC Baldwin, AW Thompson, D Arcila, R Betancur-R, C Li, L Becker, N Bellora, X Zhao, X Li, M Wang, C Fang, B Xie, Z Zhou, H Huang, S Chen, B Venkatesh, Q Shi
   link:
     url: https://www.pnas.org/doi/abs/10.1073/pnas.1719358115
-    display:  *Proceedings of the National Academy of Sciences* (2018)
+    display:  Proceedings of the National Academy of Sciences (2018)
   highlight: 0
 
 - title: "Transcriptomic differentiation underlying marine-to-freshwater transitions in the South American silversides *Odontesthes argentinensis* and *O. bonariensis* (Atheriniformes)"
@@ -97,7 +97,7 @@
   authors: **LC Hughes**, GM Somoza, BN Nguyen, JP Bernot, M González-Castro, JMD de Astarloa, G Ortí
   link:
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.3133
-    display:  *Ecology and Evolution* (2017)
+    display:  Ecology and Evolution (2017)
   highlight: 0
 
 - title: "Kisspeptin system in pejerrey fish (*Odontesthes bonariensis*). Characterization and gene expression pattern during early developmental stages"
@@ -106,7 +106,7 @@
   authors: MOT Bohórquez, AS Mechaly, **LC Hughes**, D Campanella, G Ortí, LF Canosa, GM Somoza
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1095643316302616
-    display:  *Comparative Biochemistry and Physiology Part A -  Molecular & Integrative Physiology* (2017)
+    display:  Comparative Biochemistry and Physiology Part A -  Molecular & Integrative Physiology (2017)
   highlight: 0
 
 - title: "Multi-locus fossil-calibrated phylogeny of Atheriniformes (Teleostei, Ovalentaria)"
@@ -115,7 +115,7 @@
   authors: D Campanella, **LC Hughes**, PJ Unmack, DD Bloom, KR Piller, G Ortí
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S1055790315000561
-    display:  *Molecular Phylogenetics and Evolution* (2015)
+    display:  Molecular Phylogenetics and Evolution (2015)
   highlight: 0
 
 - title: "Can ecotypic differences in male courtship behaviour be explained by visual cues provided by female threespine stickleback?)"
@@ -124,6 +124,6 @@
   authors: **LC Hughes**, SA Foster, JA Baker
   link:
     url: http://www.evolutionary-ecology.com/abstracts/v15/2805.html
-    display:  *Evolutionary Ecology Research* (2013)
+    display:  Evolutionary Ecology Research (2013)
   highlight: 0
 
