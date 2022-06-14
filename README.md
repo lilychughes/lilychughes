@@ -1,4 +1,4 @@
-# NC Fish Unit Lab Website
+# NC Ichthyology Lab Website
 
 This is the website of our academic research group at the North Carolina Museum of Natural Sciences.
 
