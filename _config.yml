@@ -10,7 +10,7 @@ title: Fishes @ NCMNS
 email: lily.hughes@naturalsciences.org
 description: > # this means to ignore newlines until "baseurl:"
   The Ichthyology Lab at the North Carolina Museum of Natural Sciences.
-baseurl: ""
+baseurl: "https://lilychughes.github.io/lilychughes"
 url: "https://lilychughes.github.io/lilychughes"
 
 include:
