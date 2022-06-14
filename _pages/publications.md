@@ -1,7 +1,7 @@
 ---
-title: "Lily C. Hughes - Publications"
+title: "Publications"
 layout: gridlay
-excerpt: "Lily C. Hughes -- Publications."
+excerpt: "Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-(For a full list of publications see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=GjBt5tgAAAAJ&hl=en))
+[A full list of publications is available on Google Scholar](https://scholar.google.com/citations?user=GjBt5tgAAAAJ&hl=en)
 
-## Recent highlights
+## Research highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,7 +52,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List of publications
+## All publications - L.C. Hughes
 
 {% for publi in site.data.publist %}
 
