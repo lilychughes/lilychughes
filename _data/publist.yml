@@ -65,13 +65,13 @@
   highlight: 0
 
 - title: "Biogeography, habitat transitions and hybridization in a radiation of South American silverside fishes revealed by mitochondrial and genomic RAD data"
-  image: 
-  description: 
+  image: Odon_Biogeo.jpg
+  description: Genomic data uncover the evolutionary history of Odontesthes silversides, revealing three transitions from marine to freshwater habitats, and different patterns of hybridization in eastern and western South America. 
   authors: LC Hughes, YP Cardoso, JA Sommer, R Cifuentes, M Cuello, GM Somoza, M González-Castro, LR Malabarba, V Cussac, EM Habit, R Betancur-R, G Ortí
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15350
     display:  Molecular Ecology (2020)
-  highlight: 0
+  highlight: 1
 
 - title: "Phylogenomic incongruence, hypothesis testing, and taxonomic sampling: The monophyly of characiform fishes"
   image: 
@@ -83,13 +83,13 @@
   highlight: 0
 
 - title: "Comprehensive phylogeny of ray-finned fishes (Actinopterygii) based on transcriptomic and genomic data"
-  image: 
-  description: 
+  image: PNAS2018Tree.jpg
+  description: The tree of life of ray-finned fishes inferred from over 300 genomes and transcriptomes - one of the largest analyses of its kind to date.
   authors: LC Hughes, G Ortí, Y Huang, Y Sun, CC Baldwin, AW Thompson, D Arcila, R Betancur-R, C Li, L Becker, N Bellora, X Zhao, X Li, M Wang, C Fang, B Xie, Z Zhou, H Huang, S Chen, B Venkatesh, Q Shi
   link:
     url: https://www.pnas.org/doi/abs/10.1073/pnas.1719358115
     display:  Proceedings of the National Academy of Sciences (2018)
-  highlight: 0
+  highlight: 1
 
 - title: "Transcriptomic differentiation underlying marine-to-freshwater transitions in the South American silversides *Odontesthes argentinensis* and *O. bonariensis* (Atheriniformes)"
   image: 

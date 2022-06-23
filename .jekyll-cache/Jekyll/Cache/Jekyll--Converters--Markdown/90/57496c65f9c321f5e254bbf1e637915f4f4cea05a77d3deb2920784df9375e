@@ -1,8 +1,8 @@
-I"<h1 id="publications">Publications</h1>
+I"x<h1 id="publications">Publications</h1>
 
-<p>(For a full list of publications see <a href="#full-list-of-publications">below</a> or go to <a href="https://scholar.google.com/citations?user=GjBt5tgAAAAJ&amp;hl=en">Google Scholar</a>)</p>
+<p><a href="https://scholar.google.com/citations?user=GjBt5tgAAAAJ&amp;hl=en">A full list of publications is available on Google Scholar</a></p>
 
-<h2 id="recent-highlights">Recent highlights</h2>
+<h2 id="research-highlights">Research highlights</h2>
 
 <div class="row">
 
@@ -18,11 +18,23 @@
     </div>
   </div>
 
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Comprehensive phylogeny of ray-finned fishes (Actinopterygii) based on transcriptomic and genomic data</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/PNAS2018Tree.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>The tree of life of ray-finned fishes inferred from over 300 genomes and transcriptomes - one of the largest analyses of its kind to date.</p>
+      <p><em>LC Hughes, G Ortí, Y Huang, Y Sun, CC Baldwin, AW Thompson, D Arcila, R Betancur-R, C Li, L Becker, N Bellora, X Zhao, X Li, M Wang, C Fang, B Xie, Z Zhou, H Huang, S Chen, B Venkatesh, Q Shi</em></p>
+      <p><strong><a href="https://www.pnas.org/doi/abs/10.1073/pnas.1719358115">Proceedings of the National Academy of Sciences (2018)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
 </div>
 
 <p>   </p>
 
-<h2 id="full-list-of-publications">Full List of publications</h2>
+<h2 id="all-publications---lc-hughes">All publications - L.C. Hughes</h2>
 
 <p>Phylogenomics and body shape morphometrics reveal recent origin and diversification in the goatfishes (Syngnatharia: Mullidae) <br />
   <em>CM Nash, LL Lungstrom, LC Hughes, MW Westneat </em><br /><a href="https://www.biorxiv.org/content/10.1101/2022.04.12.488079v1.abstract">bioRxiv (2022)</a></p>
