@@ -92,13 +92,13 @@
   highlight: 1
 
 - title: "Transcriptomic differentiation underlying marine-to-freshwater transitions in the South American silversides *Odontesthes argentinensis* and *O. bonariensis* (Atheriniformes)"
-  image: 
-  description: 
+  image: odon_gills.jpg
+  description: Comparing gill transcriptomes between marine and freshwater silversides uncovers genes that may be involved in adaptation to these different habitats, and also suggests differences in their microbiomes.
   authors: LC Hughes, GM Somoza, BN Nguyen, JP Bernot, M González-Castro, JMD de Astarloa, G Ortí
   link:
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.3133
     display:  Ecology and Evolution (2017)
-  highlight: 0
+  highlight: 1
 
 - title: "Kisspeptin system in pejerrey fish (*Odontesthes bonariensis*). Characterization and gene expression pattern during early developmental stages"
   image: 
