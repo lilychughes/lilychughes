@@ -29,13 +29,13 @@
   news2:
 
 - title: "Testing the utility of alternative metrics of branch support to address the ancient evolutionary radiation of tunas, stromateoids, and allies (Teleostei:Pelagiaria)"
-  image: 
-  description: \* These authors contributed equally to this article.
+  image: pelagiaria.jpg
+  description: Ancient evolutionary radiations with rapid branching at the base of the tree are difficult problems in phylogenetics. We show how different measures of branch support compare in resolving these difficult clades. \* These authors contributed equally to this article.
   authors: D Arcila\*, LC Hughes\*, F Meléndez-Vazquez, CC Baldwin, WT White, KE Carpenter, JT Williams, MD Santos, JJ Pogonoski, M Miya, G Ortí, R Betancur-R
   link:
     url: https://academic.oup.com/sysbio/article-abstract/70/6/1123/6204118
     display:  Systematic Biology (2021)
-  highlight: 0
+  highlight: 1
 
 - title: "Phylogenomics of Piranhas and Pacus (Serrasalmidae) Uncovers How Dietary Convergence and Parallelism Obfuscate Traditional Morphological Taxonomy"
   image: 
