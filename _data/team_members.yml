@@ -15,12 +15,7 @@
 - name: Mary Erickson 
   photo: mary.jpg
   info: Technician
-  email: mary.erickson@naturalsciences.org
+  email:
   number_educ: 1
   education1: BA, North Carolina State University, 2021
   
-- name: Bryn Tracy
-  photo: fish.jpg
-  info: Research Adjunct
-  email: bryn.tracy@naturalsciences.org
-  number_educ: 0
