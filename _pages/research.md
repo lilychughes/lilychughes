@@ -23,3 +23,9 @@ What genes are responsible for the amazing array of adaptations we see in fishes
 Our newest project uses environmental DNA (eDNA) to examine the health of local fish communities right here in North Carolina!
 
 ### ... and more.
+
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/PNAS2018Tree.jpg" width="95%">
+</figure>
+
