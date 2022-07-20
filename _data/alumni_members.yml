@@ -8,3 +8,11 @@
 #  education2:
 #  education3:
 #  education4:
+
+- name: Mary Erickson 
+  photo: mary.jpg
+  info: Former Technician
+  number_educ: 2
+  education1: BA, North Carolina State University, 2021
+  education2: Starting Master's at Columbia University, Fall 2022
+  

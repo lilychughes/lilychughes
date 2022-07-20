@@ -6,9 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the Ichthyology Lab at the [North Carolina Museum of Natural Sciences](http://www.naturalsciences.org). This website showcases our recent research! [The online searchable database for the fish collection can be found here](https://collections.naturalsciences.org/search/ichthyology). We are located at the museum's [Research Laboratory](https://naturalsciences.org/research-collections/laboratories/research-lab), in west Raleigh, North Carolina. 
+Welcome to the Ichthyology Lab at the [North Carolina Museum of Natural Sciences](http://www.naturalsciences.org), led by Dr. Lily C. Hughes! 
 
- **If you are interested in joining the team please check out vacancies for** [more info]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+We study the evolution and biodiversity of fishes through time using a combination of genomics and data from natural history collections. 
+
+ **We are recruiting a graduate student to start in August of 2023, please check out vacancies for** [more info]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
