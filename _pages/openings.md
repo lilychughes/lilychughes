@@ -18,8 +18,8 @@ We do not currently have funding for a position, but if you are interested in do
 If you are an undergraduate in the Research Triangle area interested in the systematics, biodiversity and evolution of fishes [contact Lily Hughes](mailto:lily.hughes@naturalsciences.org) to discuss potential research opportunities.
 
 ### Volunteer in the Fish Collection
-We love our volunteers who help maintain our valuable research collection! 
+We love our volunteers who help maintain our valuable research collection! We also have wonderful public outreach opportunities at the museum.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/FishUnit-MemberNight.jpg" width="95%">
 </figure>
