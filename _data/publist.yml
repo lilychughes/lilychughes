@@ -68,7 +68,7 @@
 
 - title: "Exon probe sets and bioinformatics pipelines for all levels of fish phylogenomics"
   image: MER_probes.pjg.png
-  description: 
+  description: We developed seven probe sets for sequence capture of ~1,100 single-copy exons, to advance the phylogenomics of ray-finned fishes. A tutorial of our bioinformatics pipeline is available on GitHub.
   authors: LC Hughes, G Ortí, H Saad, C Li, WT White, CC Baldwin, KA Crandall, D Arcila, R Betancur-R
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13287
