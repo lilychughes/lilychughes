@@ -27,5 +27,6 @@ Our newest project uses environmental DNA (eDNA) to examine the health of local 
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/PNAS2018Tree.jpg" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Odon_Biogeo.jpg" width="50%">
 </figure>
 
