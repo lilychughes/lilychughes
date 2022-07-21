@@ -28,13 +28,13 @@ permalink: /
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FishUnit-MemberNight2.jpg" alt="Slide 1" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lizardfish.jpeg" alt="Slide 2" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topsail.jpg" alt="Slide 3" />
         </div>
 
