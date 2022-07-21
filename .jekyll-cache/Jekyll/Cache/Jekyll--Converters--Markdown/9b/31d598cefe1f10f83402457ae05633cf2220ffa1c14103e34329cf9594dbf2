@@ -1,4 +1,4 @@
-I"M<h1 id="research">Research</h1>
+I"ì<h1 id="research">Research</h1>
 
 <p>Research in the Ichthyology Lab primarily uses genomic approaches to study the evolution and biodiversity of ray-finned fishes, the largest group of living vertebrates with more than 36,000 species. Some specific research topics include:</p>
 
@@ -17,7 +17,9 @@
 <h3 id="-and-more">â€¦ and more.</h3>
 
 <figure>
-  <p><img src="http://localhost:4000/images/pubpic/PNAS2018Tree.jpg" width="50%" /></p>
+  <p><img src="http://localhost:4000/images/pubpic/PNAS2018Tree.jpg" width="30%" />
+<img src="http://localhost:4000/images/pubpic/Odon_Biogeo.jpg" width="30%" />
+<img src="http://localhost:4000/images/pubpic/MER_probes.pjg.png" width="30%" /></p>
 </figure>
 
 :ET
