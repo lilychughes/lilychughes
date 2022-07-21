@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome to the Ichthyology Lab at the [North Carolina Museum of Natural Sciences](http://www.naturalsciences.org), led by Dr. Lily C. Hughes! 
+### Our lab is part of the [North Carolina Museum of Natural Sciences](http://www.naturalsciences.org) and led by Dr. Lily C. Hughes! 
 
 ### We study the evolution and biodiversity of fishes through time using a combination of genomics and data from natural history collections. 
 
