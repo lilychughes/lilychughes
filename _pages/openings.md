@@ -9,7 +9,7 @@ permalink: /vacancies
 # Open positions
 
 ### Graduate Students
-**I am recruiting a graduate student at North Carolina State University! [Please contact Lily Hughes](mailto:lily.hughes@naturalsciences.org) if you are interested in projects combining genomics and natural history collections!**
+**I am recruiting a graduate student at North Carolina State University! [Please contact Lily Hughes](mailto:lhughes7@ncsu.edu) if you are interested in projects combining genomics and natural history collections!** In your email, please include a CV and a brief statement of your research interests. 
 
 ### Postdocs
 We do not currently have funding for a position, but if you are interested in doing a postdoc, [contact Lily Hughes](mailto:lily.hughes@naturalsciences.org) to discuss possible external funding sources and grant opportunities.
