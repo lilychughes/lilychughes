@@ -11,5 +11,5 @@ permalink: /teaching/
 ## MEA 493/591: Special Topics in Applied Marine Genetics (3 credits)
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/NewMEASCourse-Hughes.pdf" width="75%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/NewMEASCourse-Hughes.jpg" width="75%">
 </figure>
