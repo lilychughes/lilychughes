@@ -8,9 +8,9 @@ permalink: /
 
 ### Our lab is part of the [North Carolina Museum of Natural Sciences](http://www.naturalsciences.org) and led by Dr. Lily C. Hughes! 
 
-### We study the evolution and biodiversity of fishes through time using a combination of genomics and data from natural history collections. 
+We study the evolution and biodiversity of fishes through time using a combination of genomics and data from natural history collections. 
 
-### **We are recruiting a graduate student to start in August of 2023, please check out vacancies for** [more info]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are recruiting a graduate student to start in August of 2023, please check out vacancies for** [more info]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
