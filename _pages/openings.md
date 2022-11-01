@@ -17,6 +17,8 @@ We do not currently have funding for a position, but if you are interested in do
 ### Opportunities for Undergraduate Research
 If you are an undergraduate in the Research Triangle area interested in the systematics, biodiversity and evolution of fishes [contact Lily Hughes](mailto:lily.hughes@naturalsciences.org) to discuss potential research opportunities.
 
+We have a **paid** summer internship opportunity for undergraduates available. [Apply by January 9th for full consideration!](https://www.governmentjobs.com/careers/northcarolina/jobs/3770633/state-of-nc-internship-fish-biodiversity-curatorial-assistant-in-person?keywords=Marine&pagetype=jobOpportunitiesJobs)
+
 ### Volunteer in the Fish Collection
 We love our volunteers who help maintain our valuable research collection! We also have wonderful public outreach opportunities at the museum.
 

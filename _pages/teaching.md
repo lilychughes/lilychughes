@@ -10,4 +10,6 @@ permalink: /teaching/
 
 ## MEA 493/591: Special Topics in Applied Marine Genetics (3 credits)
 
-This hands-on research class will explore how genetic data can be used to study aquatic biodiversity, conservation, and management. It will include trips behind the scenes at the North Carolina Museum of Natural Sciences!
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/NewMEASCourse-Hughes.pdf" width="95%">
+</figure>
