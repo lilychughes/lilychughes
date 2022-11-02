@@ -1,11 +1,21 @@
+- title: "Concordance and discordance in the phylogenomics of wrasses and parrotfishes (Teleostei:Labridae)"
+  image: SysBio-Labridae.jpg
+  description: We found exceptional resolution for relationships within the largest family of marine fishes. We explored how assessing conflict from biological and non-biological signals can uncover support for alternative hypotheses.
+  authors: LC Hughes, CM Nash, WT White, MW Westneat
+  link:
+    url: https://doi.org/10.1093/sysbio/syac072
+    display: Systematic Biology (2022)
+  highlight: 1
+  news2: 
+  
 - title: "Hybridization is strongly constrained by salinity during secondary contact between silverside fishes (Odontesthes, Atheriniformes)"
-  image: 
-  description:
+  image: heredity-hybrids.jpg
+  description: Genomic ddRAD data uncovers a hybrid zone between marine and freshwater silversides in the Mar Chiquita estuary, Argentina. [Check out a summary of this paper in English and Spanish here!](https://naturalsciences.org/calendar/news/silversides-surprising-hybridization/)
   authors: M González-Castro, YP Cardoso, LC Hughes, G Ortí
   link:
     url: https://www.nature.com/articles/s41437-022-00555-9.epdf?sharing_token=4astDHpVNcB4wIpLKFDhR9RgN0jAjWel9jnR3ZoTv0OwnK0MHuSO-4Om5O1PH3OsiveetyE8NytkyO2IVOdEt9KoHWeFUqbrDkaNaYFuH0NQmFo5ElJudZgkWAyPa3hocskFRMbWJIEgmC3EJfFFA9P3IovJobfXf5iquYJBvNc%3D
     display: Heredity (2022)
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: "The impact of paleoclimatic changes on body size evolution in marine fishes"
