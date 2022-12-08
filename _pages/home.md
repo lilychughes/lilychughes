@@ -54,6 +54,7 @@ permalink: /
 
 
 <figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NCIL-logo.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NCMNS.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ncsu.jpg" style="width: 170px">
 </figure>
