@@ -8,7 +8,7 @@ permalink: /
 
 ### Welcome! 
 
-### Our lab is part of the [North Carolina Museum of Natural Sciences](http://www.naturalsciences.org)! We study the evolution and biodiversity of fishes through time using a combination of genomics and data from natural history collections. 
+## Our lab is part of the [North Carolina Museum of Natural Sciences](http://www.naturalsciences.org)! We study the evolution and biodiversity of fishes through time using a combination of genomics and data from natural history collections. 
 
 
 
