@@ -34,6 +34,4 @@ To request a loan, contact Gabriela Hogue (gabriela.hogue@naturalsciences.org) a
 - A shipping address.
 - If you are a student or postdoc, the loan will be made out to your faculty advisor. Please include them on all emails regarding loans, as they are ultimately responsible for the specimens.
 - Requests that require destructive sampling or dissection must be approved by the curator.
-
-**Please Note**
-- Loaned specimens **may never** be transferred between institutions without permission from the NCSM collections manager or curator.
+- **Please Note: Loaned specimens may never be transferred between institutions without permission from the NCSM collections manager or curator.**
