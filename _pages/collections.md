@@ -10,14 +10,14 @@ permalink: /collections/
 
 ## About
 
-The collection contains specimens from 68 countries, with an emphasis on the biodiversity of the marine and freshwaters of the southeastern United States. A majority of specimens in the collection are formalin-fixed and maintained in 70% ethanol, but we also have a growing tissue collection stored in 95% ethanol, and skeletal preparations. The collection has grown significantly over the years thanks to the acquisition of collections from the Charleston Museum, UNC Institute of Marine Sciences, Duke University, Stockton State University, among others. These specimens are available for research.
+The collection contains specimens from 65 countries, with an emphasis on the biodiversity of the marine and freshwaters of the southeastern United States. A majority of specimens in the collection are formalin-fixed and maintained in 70% ethanol, but we also have a growing tissue collection stored in 95% ethanol, and skeletal preparations. The collection has grown significantly over the years thanks to the acquisition of collections from the Charleston Museum, UNC Institute of Marine Sciences, Duke University, Stockton State University, among others. These specimens are available for research.
 
 ## Quick Facts
 
-- Number of specimens: ~1.4 million
-- Number of lots: ~113,000
-- Number of tissues: >5,000
-- Number of species: >3,000
+- Number of specimens: 1.3+ million
+- Number of lots: 111,700+
+- Number of tissues: 5,000+
+- Number of species: 3,000+
 
 ## Search the Catalog
 
