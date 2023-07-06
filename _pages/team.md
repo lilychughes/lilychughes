@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **If you are looking to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+[If you are looking to join the team, check openings!]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 ## Staff
 {% assign number_printed = 0 %}
