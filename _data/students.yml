@@ -1,6 +1,23 @@
+- name: Erimi Kendrick
+  photo: fish.jpg
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: North Carolina State University
+
+- name: Ashlee Somol
+  photo: ashlee.jpg
+  info: State of NC Summer Collections Intern
+  number_educ: 1
+  education1: University of Washington
+  
+- name: Casey Bienfield
+  photo: casey.jpg
+  info: State of NC Summer Collections Intern
+  number_educ: 1
+  education1: University of Washington
+  
 - name: Nathan Vaughan
   photo: NathanVaughan-2.jpeg
   info: Undergraduate Researcher
   number_educ: 1
   education1: North Carolina State University
-
