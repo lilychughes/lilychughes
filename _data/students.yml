@@ -1,3 +1,10 @@
+- name: Tyler Muller
+  photo: fish.jpg
+  info: PhD Student
+  number_educ: 2
+  education1: North Carolina State University
+  education2: MS, University of Minnesota, 2023
+
 - name: Erimi Kendrick
   photo: fish.jpg
   info: Undergraduate Researcher
