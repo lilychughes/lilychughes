@@ -15,4 +15,21 @@
   number_educ: 2
   education1: BA, North Carolina State University, 2021
   education2: Starting Master's at Columbia University, Fall 2022
+
+- name: Ashlee Somol
+  photo: ashlee.jpg
+  info: State of NC Summer Collections Intern
+  number_educ: 1
+  education1: BS, University of Washington, 2023
   
+- name: Casey Bielefield
+  photo: casey.jpg
+  info: Collections Intern (Funded by NCAFS)
+  number_educ: 1
+  education1: BS, North Carolina State University, 2023
+  
+- name: Nathan Vaughan
+  photo: NathanVaughan-2.jpeg
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: North Carolina State University
