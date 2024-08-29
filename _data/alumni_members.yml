@@ -11,7 +11,7 @@
 
 - name: Mary Erickson 
   photo: mary.jpg
-  info: Former Collections Technician
+  info: Collections Technician
   number_educ: 2
   education1: BA, North Carolina State University, 2021
   education2: Starting Master's at Columbia University, Fall 2022
@@ -32,4 +32,10 @@
   photo: NathanVaughan-2.jpeg
   info: Undergraduate Researcher
   number_educ: 1
-  education1: North Carolina State University
+  education1: North Carolina State University, 2024
+  
+- name: Erimi Kendrick
+  photo: Erimi.jpg
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: North Carolina State University, 2024

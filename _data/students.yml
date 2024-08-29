@@ -4,11 +4,13 @@
   number_educ: 2
   education1: North Carolina State University
   education2: MS, University of Minnesota, 2023
-
-- name: Erimi Kendrick
-  photo: Erimi.jpg
-  info: Undergraduate Researcher
-  number_educ: 1
+  
+- name: Taya de Blonk
+  photo: Taya.jpg
+  number_educ: 2
   education1: North Carolina State University
+  education2: BS, University of Tennessee at Chattanooga, 2022
+
+
 
 
