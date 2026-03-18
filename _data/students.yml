@@ -1,6 +1,7 @@
 - name: Tyler Muller
   photo: TAMoutside.jpg
   info: PhD Student
+  email: tmuller@ncsu.edu
   number_educ: 2
   education1: North Carolina State University
   education2: MS, University of Minnesota, 2023
@@ -8,6 +9,7 @@
 - name: Taya de Blonk
   photo: Taya.jpg
   info: PhD Student
+  email: tmdeblon@ncsu.edu
   number_educ: 2
   education1: North Carolina State University
   education2: BS, University of Tennessee at Chattanooga, 2022
